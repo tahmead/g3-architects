@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-section {
+    width: 100%;
+    height: 1322px;
+    background: rgba(255, 144, 14, 0.10);
+}
+
+/* .title-nav {
+    display: flex;
+} */
+
+.main-menu-nav {
+    display: flex;
+}
